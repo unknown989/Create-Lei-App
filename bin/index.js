@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const { Spinnr, patterns } = require("spinnr");
 const kleur = require("kleur");
 const process = require("process");
