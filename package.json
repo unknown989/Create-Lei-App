@@ -1,0 +1,13 @@
+{
+  "name": "cla",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "cla": "./bin/index.js"
+  },
+  "dependencies": {
+    "kleur": "^4.1.5",
+    "spinnr": "^1.1.3"
+  }
+}
